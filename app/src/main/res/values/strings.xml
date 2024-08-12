@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SuitmediaTestMSIB6</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">Bagas Widiatmoko</string>
+    <string name="tvSelected">Selected User Name</string>
+    <string name="chose">Choose a User</string>
+    <string name="first_name">Bagas</string>
+    <string name="last_name">Widiatmoko</string>
+    <string name="email">widiatmokobagas27@gmail.com</string>
+</resources>
